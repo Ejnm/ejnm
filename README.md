@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduardo Nunez Data Analytics I've been learning about Data Manipulation Tools such as Python, Tableau, SQL, Power BI, and Excel. I'm also have some knowledge cloud platforms such as AWS, Azure, And GCP.*
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduardo Nunez a Data Analytics I've been learning about Data Manipulation Tools such as Python, Tableau, SQL, Power BI, and Excel. I'm also have some knowledge cloud platforms such as AWS, Azure, And GCP.*
 🌍  I'm based in Philadelphia,PA*
 
 🖥️  See my portfolio at [My Github](http://github.com/Ejnm)* 
